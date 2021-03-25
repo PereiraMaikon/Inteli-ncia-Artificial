@@ -1,2 +1,2 @@
-# Inteli-ncia-Artificial
+# Inteligencia-Artificial
 Aqui será postadas os exercícios de IA.
